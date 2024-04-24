@@ -4,6 +4,6 @@ This project analyzes election data to uncover insights into the demographics of
 Overview
 The project focuses on exploring and visualizing election-related data. It aims to provide a comprehensive understanding of electoral trends and patterns. Here are some key points:
 
-Dataset: The project uses a dataset containing information about candidates, votes, and other relevant features.
-Features: The dataset includes candidate profiles, party affiliations, voting patterns, and more.
+Dataset: The project uses a dataset containing information about constiuncy,population,votes casted,voting percentage, and other relevant features from lokdhaba.
+Features: The dataset includes candidate profiles, party affiliations, voting patterns, and more. 
 Contributions: Contributions to this project can involve data cleaning, exploratory data analysis (EDA), visualization, and model building.
